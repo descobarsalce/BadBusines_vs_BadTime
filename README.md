@@ -5,11 +5,13 @@ Code to implement business survival analysis for the city of Chicago.
 
 ## Execution Files:
 There are three workfile:
-1- 06_07_business_licenses.py
+### 1- 06_07_business_licenses.py
+This script is main file to build the dataset using the 06_12_get_data.py and run the different models using the auxiliary files.
 
-2- 06_12_get_data
+### 2- 06_12_get_data.py
+This script create the data set using a Class and generate the 
 
-3- 
+### 3- predict_values.py
 
 ## Auxiliaxy Files:
 
@@ -35,4 +37,11 @@ Models currently implemented: ['RF', 'DT', 'LR']
 
 There are different folders in the repository:
 
+### Data
+Wiew README file in data folder
 
+### Report
+Contain the resports of project.
+
+### Results
+Contain the results of the scripts and the different maps and images created of the final report
