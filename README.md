@@ -43,8 +43,14 @@ There are different folders in the repository:
 ### Data
 Wiew README file in data folder
 
+
+
 ### Report
 Contain the reports of project.
 
 ### Results
 Contain the results of the scripts and the different maps and images created of the final report
+
+## Feature lists
+In the following link are the feature list used.
+https://docs.google.com/spreadsheets/d/1cJ2XPnLAqkACd0bi4s9JNX_-gwbtFt3NEw-lw9GzCB8/edit#gid=1946812313
