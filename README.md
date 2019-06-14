@@ -44,7 +44,7 @@ There are different folders in the repository:
 Wiew README file in data folder
 
 ### Report
-Contain the resports of project.
+Contain the reports of project.
 
 ### Results
 Contain the results of the scripts and the different maps and images created of the final report
