@@ -43,8 +43,6 @@ There are different folders in the repository:
 ### Data
 Wiew README file in data folder
 
-
-
 ### Report
 Contain the reports of project.
 
