@@ -4,7 +4,12 @@
 Code to implement business survival analysis for the city of Chicago.
 
 ## Execution Files:
+There are three workfile:
+1- 06_07_business_licenses.py
 
+2- 06_12_get_data
+
+3- 
 
 ## Auxiliaxy Files:
 
