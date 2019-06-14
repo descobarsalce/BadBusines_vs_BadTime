@@ -3,7 +3,7 @@
 
 Code to implement business survival analysis for the city of Chicago.
 
-
+## Execution Files:
 
 
 ## Auxiliaxy Files:
@@ -24,4 +24,10 @@ pipeline_models.py - This includes the code for fitting the models and going thr
 
 Models implemented: all the models from sklearn are supported. Metrics implemented: precision at k%, recall at k%, f1 at k%, area under ROC curve
 
-Models currently implemented: ['RF', 'DT', 'LR', 'KNN', 'AB', 'GB', 'SVM', 'ET', 'SGD']
+Models currently implemented: ['RF', 'DT', 'LR']
+
+## Folders
+
+There are different folders in the repository:
+
+
