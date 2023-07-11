@@ -53,7 +53,7 @@ threshold = 200
 k_grid = [1,2,5,10,20,30,50,70,100]
 grid_opts = {'large_grid': plm.large_grid,
              'small_grid': plm.small_grid,
-             'test_grid': plm.test_grid
+             'test_grid': plm.test_grid,
              'final_grid : finalgrid}
              
 
