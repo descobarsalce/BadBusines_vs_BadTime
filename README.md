@@ -1,5 +1,4 @@
 # BadBusines_vs_BadTime
-## ML for PP - Final Project
 
 Code to implement business survival analysis for the city of Chicago.
 
